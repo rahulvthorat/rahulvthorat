@@ -1,5 +1,5 @@
 [![MasterHead](https://nareshit.com/wp-content/uploads/2018/08/Selenium-online-training-nareshit.jpg)
-<h1 align="center">Hi 👋, I'm RAhul Thorat</h1>
+<h1 align="center">Hi 👋, I'm Rahul Thorat</h1>
 <h3 align="center">A passionate frontend QA developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://previews.123rf.com/images/prettyvectors/prettyvectors1702/prettyvectors170200022/71079316-young-programmer-man-character-coding-vector-flat-cartoon-illustration.jpg">
 
