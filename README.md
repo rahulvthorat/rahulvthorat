@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rahul Thorat</h1>
 <h3 align="center">SDET </h3>
-<img align="right" alt="Coding" width="400" src="https://previews.123rf.com/images/prettyvectors/prettyvectors1702/prettyvectors170200022/71079316-young-programmer-man-character-coding-vector-flat-cartoon-illustration.jpg">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rahulvthorat&label=Profile%20views&color=0e75b6&style=flat" alt="rahulvthorat" /> </p>
 
