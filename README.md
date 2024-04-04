@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Rahul Thorat</h1>
 Welcome to Rahul's GitHub Profile!
 <h3 align="center">SDET </h3>
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rahulvthorat&label=Profile%20views&color=0e75b6&style=flat" alt="rahulvthorat" /> </p>
 
 - 📫 How to reach me **thorat959@gmail.com**
