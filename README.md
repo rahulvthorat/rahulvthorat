@@ -31,8 +31,6 @@
 
 Feel free to reach out if you have any questions, or suggestions, or just want to chat!
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rahulvthorat&label=Profile%20views&color=0e75b6&style=flat" alt="rahulvthorat" /> </p>
-
 ---
 
 ## Other Projects
@@ -57,6 +55,7 @@ Feel free to reach out if you have any questions, or suggestions, or just want t
 - [TruGlobal](https://github.com/rahulvthorat/Tru-Global-Test.git)
 
 ---
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=rahulvthorat&label=Profile%20views&color=0e75b6&style=flat" alt="rahulvthorat" /> </p>
 ## Courses Completed  
 **Pavan Kumar (YouTube)**  
 - Manual Testing Full Course
