@@ -31,7 +31,6 @@
 
 Feel free to reach out if you have any questions, or suggestions, or just want to chat!
 
-Thanks for visiting my GitHub profile! 😊 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rahulvthorat&label=Profile%20views&color=0e75b6&style=flat" alt="rahulvthorat" /> </p>
 
 ---
