@@ -55,12 +55,14 @@ Feel free to reach out if you have any questions, or suggestions, or just want t
 - [TruGlobal](https://github.com/rahulvthorat/Tru-Global-Test.git)
 
 ---
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rahulvthorat&label=Profile%20views&color=0e75b6&style=flat" alt="rahulvthorat" /> </p>
+
 ## Courses Completed  
-**Pavan Kumar (YouTube)**  
-- Manual Testing Full Course
-- Selenium java Full Course
-- Api Testing Full Course
+**Pavan Kumar (YouTube)** 
+- Manual Testing Full Course 
+- Selenium java Full Course 
+- Api Testing Full Course 
 - Playwright with JavaScript Full Course
----
+--- 
+
 *Thanks for visiting my GitHub profile! 😊*
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=rahulvthorat&label=Profile%20views&color=0e75b6&style=flat" alt="rahulvthorat" /> </p>
