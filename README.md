@@ -26,8 +26,8 @@
 📧 **Let's Connect:**  
 - Email: [qa.rahulthorat@gmail.com](mailto:qa.rahulthorat@gmail.com)  
 - [GitHub Profile](https://github.com/rahulvthorat)  
-- [LinkedIn](#)  
-- [YouTube](#)
+- [LinkedIn](https://www.linkedin.com/in/rahulvthorat/)  
+- [Hackerrank](#)
 
 Feel free to reach out if you have any questions, or suggestions, or just want to chat!
 
